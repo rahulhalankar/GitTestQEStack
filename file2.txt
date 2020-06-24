@@ -1,3 +1,5 @@
 This is file2
 
 Bug fix changes!!
+
+**Bug2** fix changes!!
