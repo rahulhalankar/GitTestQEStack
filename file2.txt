@@ -1,5 +1,8 @@
 This is file2
 
-Bug fix changes!!
+"Bug1" fix changes!!
 
-Change1 - change done by peer!!
+Change1 -> change done by peer!!
+
+"Bug2" fix changes!!
+
