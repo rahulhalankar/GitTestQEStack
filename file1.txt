@@ -6,4 +6,7 @@ CHANGE to update to Remote Repository!
 
 Update - Change done by peer on remote repo!!
 
-Change - by team mate to check conflict while push!!
+Change REMOTE -> by team mate to check conflict while push!!
+
+Change LOCAL  -> at local master to test conflict while push!!
+
